@@ -23,6 +23,7 @@ dependencies {
     compile "com.jgoodies:jgoodies-looks:2.7.0"
     compile 'com.google.code.gson:gson:2.8.6'
     compile 'org.apache.commons:commons-lang3:3.9'
+    compile 'org.slf4j:slf4j-simple:1.7.30'
     compile files('libs/NativeBass.jar')
 }
 
